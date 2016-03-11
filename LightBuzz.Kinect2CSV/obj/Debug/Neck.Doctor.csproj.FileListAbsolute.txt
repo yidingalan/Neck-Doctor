@@ -1,0 +1,13 @@
+C:\Users\Josh\Desktop\NeckDoctor\Nec\LightBuzz.Kinect2CSV\bin\Debug\LightBuzz.Kinect2CSV.dll
+C:\Users\Josh\Desktop\NeckDoctor\Nec\LightBuzz.Kinect2CSV\bin\Debug\LightBuzz.Kinect2CSV.pdb
+C:\Users\Josh\Desktop\NeckDoctor\Nec\LightBuzz.Kinect2CSV\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Josh\Desktop\NeckDoctor\Nec\LightBuzz.Kinect2CSV\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Josh\Desktop\NeckDoctor\Nec\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.dll
+C:\Users\Josh\Desktop\NeckDoctor\Nec\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.pdb
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\obj\Debug\Neck Doctor.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.dll
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.pdb
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\bin\Debug\LightBuzz.Kinect2CSV.dll
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\bin\Debug\LightBuzz.Kinect2CSV.pdb
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Alan\Desktop\NeckDoctor\NeckDoctor\LightBuzz.Kinect2CSV\bin\Debug\Microsoft.Kinect.xml

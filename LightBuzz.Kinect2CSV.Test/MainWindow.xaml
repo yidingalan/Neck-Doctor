@@ -1,0 +1,57 @@
+﻿<Window x:Class="LightBuzz.Kinect2CSV.Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Neck Doctor" Height="468.908" Width="538.06"
+        Loaded="Window_Loaded" Closed="Window_Closed"
+        Background="Coral">
+    <Grid>
+        <Button Content="Start" Click="Button_Click" Margin="215,264,208,136.2" FontFamily="aerial" FontWeight="Bold"
+                FontSize="15"/>
+
+        <Button x:Name="button" Content="Logistics" HorizontalAlignment="Left" Margin="215,325,0,0" VerticalAlignment="Top" Width="100" Height="31" Click="button_Click_1"
+               FontFamily="aerial" FontWeight="Bold" FontSize="15" />
+        <Label x:Name="label" Content="Neck Doctor" HorizontalAlignment="Left" Margin="188,196,0,0" VerticalAlignment="Top" Height="68" Width="163" FontSize="24" FontFamily="Lucida Bright" RenderTransformOrigin="0.487,0.516">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FF02C4FF" Offset="0.87"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="132" Margin="198,32,0,0" VerticalAlignment="Top" Width="144" Source="http://saltlakeaccidentdoctor.com/wp-content/uploads/2014/11/neck-pain.png"/>
+        <StackPanel>
+            <CheckBox Name = "PCheckBox" Margin = "10,10,522,500" Content = "Checked Me" Height = "1" RenderTransformOrigin="0.5,0.5">
+                <CheckBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </CheckBox.RenderTransform>
+            </CheckBox>
+
+            <Popup IsOpen = "{Binding ElementName = PCheckBox,Path=IsChecked}" 
+            PlacementTarget = "{Binding ElementName = PCheckBox}"
+            AllowsTransparency = "True" PopupAnimation = "Slide"
+            HorizontalOffset = "100" VerticalOffset = "100">
+
+                <Canvas Name ="popUpCanvas" Width = "300" Height = "150" Background = "LightGray" Margin = "5" Visibility="Collapsed">
+
+                    <Canvas.RenderTransform>
+                        <RotateTransform x:Name = "theTransform" />
+                    </Canvas.RenderTransform>
+
+                    <TextBlock TextWrapping = "Wrap" Foreground = "Blue" Text = "Hi, this is Popup"/>
+
+                </Canvas>
+
+            </Popup>
+
+        </StackPanel>
+
+
+
+    </Grid>
+
+</Window>

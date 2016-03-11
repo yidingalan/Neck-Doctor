@@ -1,0 +1,7 @@
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\bin\Debug\LightBuzz.Kinect2CSV.dll
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\bin\Debug\LightBuzz.Kinect2CSV.pdb
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.dll
+C:\Users\Josh\Desktop\Kinect-2-CSV-master\Kinect2CSV\LightBuzz.Kinect2CSV\obj\Debug\LightBuzz.Kinect2CSV.pdb
